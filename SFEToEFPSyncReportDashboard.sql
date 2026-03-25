@@ -10,7 +10,6 @@
 --
 -- Uses:
 -- This query runs on the eFinance database server
--- Lives on the Power BI Report Server in the SmartFind Express Jobs Dashboard - SFEJobs Table
 --
 -- Notes:
 -- Added Latest Integration Response from eFP
