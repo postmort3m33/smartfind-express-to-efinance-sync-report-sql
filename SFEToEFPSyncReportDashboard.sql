@@ -4,9 +4,9 @@
 -- There are many absences that do not make there way over to eFinance for final record. Many absence changes and updates are lost in transit as well.
 --
 -- Dependencies:
--- Connected Intelligence/Snowflake Linked Server "<LINKED_SERVER_NAME>" on eFinance Server (Un-hosted)
+-- Connected Intelligence/Snowflake Linked Server "<LINKED_SERVER_NAME>" on eFinance Server
 -- <SFE_INTEGRATION_LOG_TABLE> Filtered eFinance integration error table that only shows SFE data (This is because there can be millios of rows with multi varchar(4000) columns!)
--- eFinance attendance and vacancy tables (Hosted)
+-- eFinance attendance and vacancy tables
 --
 -- Uses:
 -- This query runs on the eFinance database server
